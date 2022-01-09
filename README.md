@@ -1,4 +1,14 @@
 
-# https://apple.stackexchange.com/questions/80611/merging-multiple-csv-files-without-merging-the-header
-Merging csv files and output header once
-awk '(NR == 1) || (FNR > 1)' file*.csv > bigfile.csv
+Set for methods for helping in crawling armp.cm which is Cameroon Public Tender website
+
+# Introduction
+
+# Building and Running Unittest
+
+# Sample Usage
+
+# License
+
+# Contributors
+
+@2trc
